@@ -11,7 +11,7 @@
   
 
  <p style="max-width: 700px;">
-  Me chamo Fernanda Andrade, e tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia, sempre buscando aprender ou desenvolver algo novo. Compartilho meus projetos e dia a dia pelo <a href="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">Instagram</a>.
+  Me chamo Fernanda Andrade, e tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia, sempre buscando aprender ou desenvolver algo novo. Compartilho meus projetos e dia a dia pelo <a href="https://www.instagram.com/_fernanda_dev" target="_blank">Instagram</a>.
 </p>
 
   <br/>
