@@ -19,7 +19,7 @@
   <p>
     <a href="https://www.linkedin.com/in/fernanda-andrade-4b26b6415  " target="_blank"><img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/_fernanda_dev?utm_source=qr&igsh=MWw0ZW93aHM4c3Brdw==" target="_blank"><img alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="SEU_LINK_DO_YOUTUBE_AQUI" target="_blank"><img alt="YouTube" title="Inscreva-se no meu canal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="UCyaI_8A3DxFS88Q5XywnBBA" target="_blank"><img alt="YouTube" title="Inscreva-se no meu canal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href="SEU_LINK_DO_TIKTOK_AQUI" target="_blank"><img alt="TikTok" title="Siga-me no TikTok" src="https://img.shields.io/badge/TikTok-FF007F?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
     <a href="mailto:fernandandrade.dev@gmail.com" target="_blank"><img alt="E-mail" title="Envie um e-mail" src="https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
