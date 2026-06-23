@@ -6,7 +6,7 @@
 
 
    <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20focado%20em%20IA%2C%20automa%C3%A7%C3%A3o%20e%20solu%C3%A7%C3%B5es%20reais.;Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas;A%20sede%20por%20conhecimento%20n%C3%A3o%20cessa&font=Fira%20Code&center=true&width=850&height=45&color=f75c7e&vCenter=true&pause=1000&size=25" alt="Letreiro Animado" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Dev%20focado%20em%20IA%2C%20automa%C3%A7%C3%A3o%20e%20solu%C3%A7%C3%B5es%20reais.;Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas;A%20sede%20por%20conhecimento%20n%C3%A3o%20cessa&font=Fira%20Code&center=true&width=850&height=45&color=f75c7e&vCenter=true&pause=1000&size=23" alt="Letreiro Animado" />
 </p>
   
 
