@@ -127,14 +127,12 @@
 ### Estatísticas
 
 <p align="center">
-  <!-- Estatísticas Gerais -->
   <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=FernandaAndradedev-hash&show_icons=true&title_color=f75c7e&icon_color=f75c7e&text_color=FFFFFF&bg_color=1b212c&count_private=true&cache_seconds=1800&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=FernandaAndradedev-hash&show_icons=true&title_color=f75c7e&icon_color=f75c7e&text_color=FFFFFF&bg_color=1b212c&count_private=true&cache_seconds=1800&locale=pt-br&include_all_commits=true&hide=contribs"
   />
-  <!-- Tecnologias -->
   <img
     align="left"
     alt="Tecnologias"
