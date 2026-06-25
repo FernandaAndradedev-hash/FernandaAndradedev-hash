@@ -127,23 +127,19 @@
 ### Estatísticas
 
 <p align="center">
-
   <!-- Estatísticas Gerais -->
   <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=FernandaAndradedev-hash&show_icons=true&title_color=f75c7e&icon_color=f75c7e&text_color=FFFFFF&bg_color=1b212c&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=FernandaAndradedev-hash&show_icons=true&title_color=f75c7e&icon_color=f75c7e&text_color=FFFFFF&bg_color=1b212c&count_private=true&cache_seconds=1800&locale=pt-br"
   />
-
   <!-- Tecnologias -->
   <img
     align="left"
     alt="Tecnologias"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaAndradedev-hash&title_color=f75c7e&text_color=FFFFFF&bg_color=1b212c&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaAndradedev-hash&title_color=f75c7e&text_color=FFFFFF&bg_color=1b212c&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800&hide_border=false"
   />
-
 </p>
-
 <br clear="both">
