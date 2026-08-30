@@ -32,15 +32,27 @@ Compartilho meus projetos e dia a dia pelo [Instagram](https://www.instagram.com
   <tr>
     <td valign="top" width="33.33%" align="center">
       <img src="imagens/java-capa.png" width="100%">
-      <p><a href="https://github.com/FernandaAndradedev-hash/java-projects.git">Ver repositório</a></p>
+<p>
+  <a href="https://github.com/FernandaAndradedev-hash/java-projects.git">
+    <img src="https://img.shields.io/badge/Ver%20repositório-24292e?style=flat-square&logoColor=white" alt="Ver repositório"/>
+  </a>
+</p>
     </td>
     <td valign="top" width="33.33%" align="center">
       <img src="imagens/python-capa.png" width="100%">
-      <p><a href="https://github.com/FernandaAndradedev-hash/python-projects.git">Ver repositório</a></p>
+<p>
+  <a href="https://github.com/FernandaAndradedev-hash/java-projects.git">
+    <img src="https://img.shields.io/badge/Ver%20repositório-24292e?style=flat-square&logoColor=white" alt="Ver repositório"/>
+  </a>
+</p>
     </td>
     <td valign="top" width="33.33%" align="center">
       <img src="imagens/js-capa.png" width="100%">
-      <p><a href="https://github.com/FernandaAndradedev-hash/javascript-projects.git">Ver repositório</a></p>
+<p>
+  <a href="https://github.com/FernandaAndradedev-hash/java-projects.git">
+    <img src="https://img.shields.io/badge/Ver%20repositório-24292e?style=flat-square&logoColor=white" alt="Ver repositório"/>
+  </a>
+</p>
     </td>
   </tr>
 </table>
