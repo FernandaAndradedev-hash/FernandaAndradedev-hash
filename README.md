@@ -22,6 +22,8 @@ Compartilho meus projetos e dia a dia pelo [Instagram](https://www.instagram.com
   <a href="mailto:fernandandrade.dev@gmail.com" target="_blank"><img alt="E-mail" title="Envie um e-mail" src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
 ### O que eu construo
 
 | Área | Foco |
