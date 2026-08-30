@@ -33,6 +33,8 @@ Compartilho meus projetos e dia a dia pelo [Instagram](https://www.instagram.com
 | **BackEnd** | Construção de APIs robustas, microsserviços e bancos de dados seguros com Python, Java, Node.js e MySQL. |
 | **FullStack** | Desenvolvimento ponta a ponta com a stack completa (React/Next.js no front e Node/Python/Java no back), containerizado com Docker e versionado no Git. |
 
+---
+
 ### Projetos em Destaque
 
 <table width="100%" cellspacing="12" cellpadding="12" style="width: 100%; table-layout: fixed;">
