@@ -69,46 +69,42 @@ Compartilho meus projetos e dia a dia pelo [Instagram](https://www.instagram.com
 | **FullStack** | Desenvolvimento ponta a ponta com a stack completa (React/Next.js no front e Node/Python/Java no back), containerizado com Docker e versionado no Git. |
 ---
 
-<h3 style="border-bottom: none; font-size: 2em; margin-bottom: 12px;">Tech Stack</h3>
+### Tech Stack
 
-<table width="100%">
-  <tr> 
-    <td valign="top" width="60%">
-      <p style="font-size: 1.17em; font-weight: bold; margin-bottom: 8px;">Linguagens</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-08090b?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-08090b?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JAVASCRIPT-08090b?style=for-the-badge&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/TYPESCRIPT-08090b?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-08090b?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/PYTHON-08090b?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JAVA-08090b?style=for-the-badge&logo=openjdk&logoColor=white" />
-      </p>
-      <p style="font-size: 1.17em; font-weight: bold; margin-top: 16px; margin-bottom: 8px;">Tecnologias</p>
-      <p>
-        <img src="https://img.shields.io/badge/REACT-08090b?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/NEXT.JS-08090b?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/NODE.JS-08090b?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MYSQL-08090b?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/DOCKER-08090b?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/GIT-08090b?style=for-the-badge&logo=git&logoColor=white" />
-      </p>
-      <p style="font-size: 1.17em; font-weight: bold; margin-top: 16px; margin-bottom: 8px;">LLMs / IA</p>
-      <p>
-        <img src="https://img.shields.io/badge/CHATGPT-08090b?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/CLAUDE-08090b?style=for-the-badge&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/GEMINI-08090b?style=for-the-badge&logo=googlegemini&logoColor=white" />
-      </p>
-    </td>
-    <td valign="middle" align="center" width="40%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="imagens/gif-tecnologia.gif">
-        <source media="(prefers-color-scheme: light)" srcset="imagens/gif-tecnologia.gif">
-        <img src="imagens/gif-tecnologia.gif" alt="Tech Sphere" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<img align="right" src="imagens/gif-tecnologia.gif" alt="Tech Sphere" width="300" />
+
+**Linguagens**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-08090b?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-08090b?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-08090b?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-08090b?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-08090b?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-08090b?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-08090b?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**Tecnologias**
+
+<p>
+  <img src="https://img.shields.io/badge/REACT-08090b?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEXT.JS-08090b?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-08090b?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-08090b?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-08090b?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-08090b?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**LLMs / IA**
+
+<p>
+  <img src="https://img.shields.io/badge/CHATGPT-08090b?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLAUDE-08090b?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEMINI-08090b?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<br clear="right"/>
 
 ---
 
