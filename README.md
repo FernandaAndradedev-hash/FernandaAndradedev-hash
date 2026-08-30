@@ -22,16 +22,7 @@ Compartilho meus projetos e dia a dia pelo [Instagram](https://www.instagram.com
   <a href="mailto:fernandandrade.dev@gmail.com" target="_blank"><img alt="E-mail" title="Envie um e-mail" src="https://img.shields.io/badge/Email-08090b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-### O que eu construo
-
-| Área | Foco |
-|---|---|
-| **LLM & Sistemas Agentivos** | Desenvolvimento e orquestração de agentes inteligentes e workflows avançados utilizando Claude (Anthropic), ChatGPT (OpenAI) e Gemini. |
-| **FrontEnd** | Criação de interfaces modernas, dinâmicas e reativas com HTML5, CSS3, JavaScript, TypeScript, React e Next.js. |
-| **BackEnd** | Construção de APIs robustas, microsserviços e bancos de dados seguros com Python, Java, Node.js e MySQL. |
-| **FullStack** | Desenvolvimento ponta a ponta com a stack completa (React/Next.js no front e Node/Python/Java no back), containerizado com Docker e versionado no Git. |
 
 ---
 
@@ -54,6 +45,16 @@ Compartilho meus projetos e dia a dia pelo [Instagram](https://www.instagram.com
   </tr>
 </table>
 
+---
+
+### O que eu construo
+
+| Área | Foco |
+|---|---|
+| **LLM & Sistemas Agentivos** | Desenvolvimento e orquestração de agentes inteligentes e workflows avançados utilizando Claude (Anthropic), ChatGPT (OpenAI) e Gemini. |
+| **FrontEnd** | Criação de interfaces modernas, dinâmicas e reativas com HTML5, CSS3, JavaScript, TypeScript, React e Next.js. |
+| **BackEnd** | Construção de APIs robustas, microsserviços e bancos de dados seguros com Python, Java, Node.js e MySQL. |
+| **FullStack** | Desenvolvimento ponta a ponta com a stack completa (React/Next.js no front e Node/Python/Java no back), containerizado com Docker e versionado no Git. |
 ---
 
 <h3 style="border-bottom: none; font-size: 2em; margin-bottom: 12px;">Tech Stack</h3>
